@@ -1,6 +1,8 @@
 ## jQuery.Class
 A Java-like class constructor that supports `private` and `parent`.
 
+NOTE: DO NOT USE THIS REPO! Use the [native JS class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) instead.
+
 ## Dependency
 + [jQuery](http://jQuery.com) for some handy functions.
 
